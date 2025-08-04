@@ -7,7 +7,7 @@ Possuo experiência com **implantação de sistemas**, **desenvolvimento de APIs
 Gosto de transformar ideias em soluções funcionais, com foco em boas práticas e experiência do usuário.
 
 🔧 Tecnologias que utilizo com frequência:  
-**Python · JavaScript · React.js · TypeScript · Tailwind CSS · Express · Node.js **
+**Python · JavaScript · React.js · TypeScript · Tailwind CSS · Express · Node.js**
 
 Fora do código, sou apaixonada por **leitura**, viciada em **café** e amo **viajar** para descobrir novos lugares e culturas.
 
