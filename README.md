@@ -13,10 +13,15 @@ Fora do código, sou apaixonada por **leitura**, viciada em **café** e amo **vi
 
 ## 🎓 Certificações
 
-[![NLW Connect - Fullstack](https://img.shields.io/badge/NLW%20Connect-Fullstack-8257E5?style=for-the-badge&logo=rocketseat&logoColor=white)](https://app.rocketseat.com.br/certificates/c00bdde6-25a4-42cc-9f1d-16b81e8b368b)  
-[![OCI - ONE](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-ONE-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://cursos.alura.com.br/degree/certificate/2fc4019f-07a3-41d6-a92c-1761b2f7038f?lang)  
-[![Back-end - Oracle ONE](https://img.shields.io/badge/Oracle%20Next%20Education-Back--end-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://cursos.alura.com.br/program/certificate/9ff6ea6c-5e1d-4ce2-81ce-5c7dee46cfad?lang)  
-[![Iniciante em Programação - ONE](https://img.shields.io/badge/Formação%20Iniciante%20em%20Programação-T6-0066CC?style=for-the-badge&logo=alura&logoColor=white)](https://cursos.alura.com.br/degree/certificate/249f8a45-b891-4ed6-a59d-b833e671f8de)
+## 🎓 Certificações
+
+[![NLW Connect - Fullstack](https://img.shields.io/badge/NLW_Connect-Fullstack-8A2BE2?style=for-the-badge&logo=rocketseat&logoColor=white&labelColor=00C896)](https://app.rocketseat.com.br/certificates/c00bdde6-25a4-42cc-9f1d-16b81e8b368b)
+
+[![OCI - Oracle Cloud Infrastructure](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-ONE-FF6B6B?style=for-the-badge&logo=oracle&logoColor=white&labelColor=007BFF)](https://cursos.alura.com.br/degree/certificate/2fc4019f-07a3-41d6-a92c-1761b2f7038f?lang)
+
+[![Back-end - Oracle ONE](https://img.shields.io/badge/Oracle_NEXT_Education-Back--end-FB8500?style=for-the-badge&logo=oracle&logoColor=white&labelColor=6D6875)](https://cursos.alura.com.br/program/certificate/9ff6ea6c-5e1d-4ce2-81ce-5c7dee46cfad?lang)
+
+[![Iniciante em Programação - ONE](https://img.shields.io/badge/Formação_Iniciante_em_Programação-T6-E0BBE4?style=for-the-badge&logo=alura&logoColor=black&labelColor=ffffff)](https://cursos.alura.com.br/degree/certificate/249f8a45-b891-4ed6-a59d-b833e671f8de)
 
 
 ## 📊 GitHub Stats
