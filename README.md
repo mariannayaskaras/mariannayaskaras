@@ -21,7 +21,7 @@ Fora do código, sou apaixonada por **leitura**, viciada em **café** e amo **vi
 
 ## 📊 GitHub Stats
 
-![Marianna's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariannayaskaras&show_icons=true&theme=tokyonight)  
+![Marianna's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariannayaskaras&show_icons=true&theme=tokyonight&v=20250804) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariannayaskaras&layout=compact&theme=tokyonight&v=20250804)
 
 
