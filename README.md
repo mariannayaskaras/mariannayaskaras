@@ -7,7 +7,7 @@ Possuo experiência com **implantação de sistemas**, **desenvolvimento de APIs
 Gosto de transformar ideias em soluções funcionais, com foco em boas práticas e experiência do usuário.
 
 🔧 Tecnologias que utilizo com frequência:  
-**Python · Django · JavaScript · React.js · TypeScript · Tailwind CSS · AWS · SQL**
+**Python · JavaScript · React.js · TypeScript · Tailwind CSS · Express · Node.js **
 
 Fora do código, sou apaixonada por **leitura**, viciada em **café** e amo **viajar** para descobrir novos lugares e culturas.
 
@@ -22,7 +22,7 @@ Fora do código, sou apaixonada por **leitura**, viciada em **café** e amo **vi
 ## 📊 GitHub Stats
 
 ![Marianna's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariannayaskaras&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariannayaskaras&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariannayaskaras&layout=compact&theme=tokyonightq=(https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%2Ftop-langs%2F%3Fusername%3Dmariannayaskaras%26layout%3Dcompact%26theme%3Dtokyonight&sourceid=opera&ie=UTF-8&oe=UTF-8)
 
 
 *“Do, or do not. There is no “try” — Yoda*
