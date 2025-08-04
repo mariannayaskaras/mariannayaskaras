@@ -13,8 +13,6 @@ Fora do código, sou apaixonada por **leitura**, viciada em **café** e amo **vi
 
 ## 🎓 Certificações
 
-## 🎓 Certificações
-
 [![NLW Connect - Fullstack](https://img.shields.io/badge/NLW_Connect-Fullstack-8A2BE2?style=for-the-badge&logo=rocketseat&logoColor=white&labelColor=00C896)](https://app.rocketseat.com.br/certificates/c00bdde6-25a4-42cc-9f1d-16b81e8b368b)
 
 [![OCI - Oracle Cloud Infrastructure](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-ONE-FF6B6B?style=for-the-badge&logo=oracle&logoColor=white&labelColor=007BFF)](https://cursos.alura.com.br/degree/certificate/2fc4019f-07a3-41d6-a92c-1761b2f7038f?lang)
