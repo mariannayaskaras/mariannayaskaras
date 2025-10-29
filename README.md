@@ -2,12 +2,14 @@
 
 # Olá! ✨
 
-Atuo como desenvolvedora full stack, com entusiasmo por tecnologia e trabalho remoto. Tenho um perfil autodidata e gosto de estar em constante evolução.  
-Possuo experiência com **implantação de sistemas**, **desenvolvimento de APIs**, **integrações** e projetos voltados ao **desenvolvimento web**.  
-Gosto de transformar ideias em soluções funcionais, com foco em boas práticas e experiência do usuário.
+Software Engineer com mais de 3 anos de experiência em tecnologia, atuando no desenvolvimento de soluções completas — do front-end ao back-end.
+Tenho experiência sólida com React, Next.js e TypeScript na criação de interfaces modernas e escaláveis, além de atuação com Python, Node.js e Express no desenvolvimento de APIs e integrações.
+
+Domínio em bancos de dados relacionais (SQL), consumo e criação de APIs RESTful, automação de processos com n8n e práticas de DevSecOps voltadas à segurança e confiabilidade de sistemas.
+Tenho me aprofundado em Machine Learning e em explorar novas formas de aplicar tecnologia para gerar impacto real.
 
 🔧 Tecnologias que utilizo com frequência:  
-**Python · JavaScript · React.js · TypeScript · Tailwind CSS · Express · Node.js**
+**Python · React.js · TypeScript · Express · Node.js · ML · SQL· noSQL**
 
 Fora do código, sou apaixonada por **leitura**, viciada em **café** e amo **viajar** para descobrir novos lugares e culturas.
 
@@ -21,6 +23,11 @@ Fora do código, sou apaixonada por **leitura**, viciada em **café** e amo **vi
 
 [![Iniciante em Programação - ONE](https://img.shields.io/badge/Formação_Iniciante_em_Programação-T6-E0BBE4?style=for-the-badge&logo=alura&logoColor=black&labelColor=ffffff)](https://cursos.alura.com.br/degree/certificate/249f8a45-b891-4ed6-a59d-b833e671f8de)
 
+[![Procedures SQL - ONE](https://cursos.alura.com.br/user/marianna-yaskara/course/mysql-procedures/certificate)
+
+[![SQL com MySQL] - ONE] (https://cursos.alura.com.br/user/marianna-yaskara/course/mysql-manipule-dados-com-sql/certificate)
+
+[![Spring Boot: desenvolvendo uma API Rest em Java - ONE] (https://cursos.alura.com.br/course/spring-boot-3-desenvolva-api-rest-java)
 
 ## 📊 GitHub Stats
 
