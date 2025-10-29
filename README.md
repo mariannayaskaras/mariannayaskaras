@@ -23,11 +23,11 @@ Fora do código, sou apaixonada por **leitura**, viciada em **café** e amo **vi
 
 [![Iniciante em Programação - ONE](https://img.shields.io/badge/Formação_Iniciante_em_Programação-T6-E0BBE4?style=for-the-badge&logo=alura&logoColor=black&labelColor=ffffff)](https://cursos.alura.com.br/degree/certificate/249f8a45-b891-4ed6-a59d-b833e671f8de)
 
-[![Procedures SQL - ONE](https://cursos.alura.com.br/user/marianna-yaskara/course/mysql-procedures/certificate)
+[![Procedures SQL - ONE](https://img.shields.io/badge/Procedures_SQL-ONE-6D6875?style=for-the-badge&logo=alura&logoColor=white&labelColor=007BFF)](https://cursos.alura.com.br/user/marianna-yaskara/course/mysql-procedures/certificate)
 
-[![SQL com MySQL] - ONE] (https://cursos.alura.com.br/user/marianna-yaskara/course/mysql-manipule-dados-com-sql/certificate)
+[![SQL com MySQL - ONE](https://img.shields.io/badge/SQL_com_MySQL-ONE-FFD166?style=for-the-badge&logo=alura&logoColor=black&labelColor=ffffff)](https://cursos.alura.com.br/user/marianna-yaskara/course/mysql-manipule-dados-com-sql/certificate)
 
-[![Spring Boot: desenvolvendo uma API Rest em Java - ONE] (https://cursos.alura.com.br/course/spring-boot-3-desenvolva-api-rest-java)
+[![Spring Boot: desenvolvendo uma API Rest em Java - ONE](https://img.shields.io/badge/Spring_Boot_API_Rest-ONE-6A994E?style=for-the-badge&logo=springboot&logoColor=white&labelColor=386641)](https://cursos.alura.com.br/course/spring-boot-3-desenvolva-api-rest-java)
 
 ## 📊 GitHub Stats
 
