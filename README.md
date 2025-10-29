@@ -27,7 +27,7 @@ Fora do código, sou apaixonada por **leitura**, viciada em **café** e amo **vi
 
 [![SQL com MySQL - ONE](https://img.shields.io/badge/SQL_com_MySQL-ONE-FFD166?style=for-the-badge&logo=alura&logoColor=black&labelColor=ffffff)](https://cursos.alura.com.br/user/marianna-yaskara/course/mysql-manipule-dados-com-sql/certificate)
 
-[![Spring Boot: desenvolvendo uma API Rest em Java - ONE](https://img.shields.io/badge/Spring_Boot_API_Rest-ONE-6A994E?style=for-the-badge&logo=springboot&logoColor=white&labelColor=386641)](https://cursos.alura.com.br/course/spring-boot-3-desenvolva-api-rest-java)
+[![Spring Boot: desenvolvendo uma API Rest em Java - ONE](https://img.shields.io/badge/Spring_Boot_API_Rest-ONE-6A994E?style=for-the-badge&logo=springboot&logoColor=white&labelColor=386641)](https://cursos.alura.com.br/user/marianna-yaskara/course/spring-boot-3-desenvolva-api-rest-java/certificate)
 
 ## 📊 GitHub Stats
 
