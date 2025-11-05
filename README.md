@@ -2,7 +2,7 @@
 
 # Olá! ✨
 
-Software Engineer com mais de 3 anos de experiência em tecnologia, atuando no desenvolvimento de soluções completas — do front-end ao back-end.
+Software Engineer com mais de 5 anos de experiência em tecnologia, atuando no desenvolvimento de soluções completas — do front-end ao back-end.
 Tenho experiência sólida com React, Next.js e TypeScript na criação de interfaces modernas e escaláveis, além de atuação com Python, Node.js e Express no desenvolvimento de APIs e integrações.
 
 Domínio em bancos de dados relacionais (SQL), consumo e criação de APIs RESTful, automação de processos com n8n e práticas de DevSecOps voltadas à segurança e confiabilidade de sistemas.
