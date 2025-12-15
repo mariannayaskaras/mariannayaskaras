@@ -33,7 +33,7 @@ Fora do código, sou apaixonada por **leitura**, viciada em **café** e amo **vi
 
 ![Marianna's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariannayaskaras&show_icons=true&theme=tokyonight&v=1)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariannayaskaras&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Languages](https://metrics.lecoq.io/mariannayaskaras?template=classic&languages=1&languages.colors=rainbow)
 
 
 *“Do, or do not. There is no “try” — Yoda*
